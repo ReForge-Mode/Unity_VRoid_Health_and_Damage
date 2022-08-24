@@ -13,4 +13,4 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![Unity VRoid Health and Damage System!](https://github.com/FFaUniHan/Unity_VRoid_Health_and_Damage/blob/main/Video.jpg)](https://youtu.be/NHuoiGtiZ7M "How to Blend Two Expressions Together (Unity VRoid Studio)")
+[![Unity VRoid Health and Damage System!](https://github.com/FFaUniHan/Unity_VRoid_Health_and_Damage/blob/main/Video.jpg)](https://youtu.be/NHuoiGtiZ7M "Unity VRoid Health and Damage System")
