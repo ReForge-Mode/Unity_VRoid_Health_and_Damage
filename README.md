@@ -1,10 +1,9 @@
-# Unity VRoid Blend Trees Expression
-In this very short tutorial, you'll learn how to blend two facial expressions on our VRoid character through the use of Blend Trees in Unity!
+# Unity VRoid Health and Damage System
+In this tutorial, you'll learn how to create health and damage system in Unity and VRoid Studio
 
 Huge credit to these guys who made this possible!
 - UniVRM plugin: https://github.com/vrm-c/UniVRM
-
-<img src="https://github.com/FFaUniHan/Unity_VRoid_Blend_Trees/blob/main/Demo.gif" width=100% height=100%>
+- Invector Third Person Controller Basic Locomotion FREE: https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048
 
 # Instructions
 Once you download and extract the zip file or clone the project to your Git application, open it in Unity Hub. If you want to follow along the tutorial, use the Before Tutorial folder. But if you just want the final result, use the After Tutorial folder.
@@ -14,4 +13,4 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Blend Two Expressions Together (Unity VRoid Studio)!](https://github.com/FFaUniHan/Unity_VRoid_Blend_Trees/blob/main/Video.jpg)](https://youtu.be/oqnh1CuKEx0 "How to Blend Two Expressions Together (Unity VRoid Studio)")
+[![Unity VRoid Health and Damage System!](https://github.com/FFaUniHan/Unity_VRoid_Health_and_Damage/blob/main/Video.jpg)](https://youtu.be/NHuoiGtiZ7M "How to Blend Two Expressions Together (Unity VRoid Studio)")
