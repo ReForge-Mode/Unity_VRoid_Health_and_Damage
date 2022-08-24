@@ -6,18 +6,19 @@ public class DamageTester : MonoBehaviour
 {
     public AttributesManager playerAtm;
     public AttributesManager enemyAtm;
-    public int damage;
 
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.F11))
+        //Deal player damage to the enemy health
+        if (Input.GetKeyDown(KeyCode.F11))
         {
-            playerAtm.TakeDamage(damage);
+            playerAtm.DealDamage(enemyAtm.gameObject);
         }
 
+        //Deal enemy damage to the player health
         if(Input.GetKeyDown(KeyCode.F12))
         {
-            enemyAtm.TakeDamage(damage);
+            enemyAtm.DealDamage(playerAtm.gameObject);
         }
     }
 }
